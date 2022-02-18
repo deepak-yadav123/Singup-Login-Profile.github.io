@@ -6,7 +6,7 @@ contains additional details such as Full name,username,age,dob,contact no , ans 
 that can be updated by the user
 
 The Full Work is done in PHP,MYSQL DATABASE,HTML,CSS,JAVASCRIPT and the form input and inserted into database is done through ajax and the project contains separated css file
-and its a fully dyanamic website as you can see through hosted link 
+and used bootstrap components also to look a attractive onces its a fully dyanamic website as you can see through hosted link 
 
 If You provides the work input such as username,password,email,etc its show error in the next class
 
